@@ -1,5 +1,16 @@
-body{
+body {
 	font-family: 'Josefin Sans', sans-serif;
-	background-image: url("rsz_duck_background.jpg");
-	background-repeat: repeat;
-	}
+	position: relative;
+	height: 100vh;
+	/*background-image: url("rsz_duck_background.jpg");*/
+	background-color: SlateGrey; 
+	/*background-blend-mode: color;
+	background-repeat: repeat;*/
+}
+.text_block {
+	background-color: #9dacbb;
+	width: 70%;
+	margin: 50px auto;
+	/*margin-top: 5%*/
+	padding: 2%;
+}
