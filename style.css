@@ -2,15 +2,31 @@ body {
 	font-family: 'Josefin Sans', sans-serif;
 	position: relative;
 	height: 100vh;
-	/*background-image: url("rsz_duck_background.jpg");*/
-	background-color: SlateGrey; 
-	/*background-blend-mode: color;
-	background-repeat: repeat;*/
+	background-color: #748386; 
+	padding-top: 2%;
 }
-.text_block {
-	background-color: #9dacbb;
-	width: 70%;
-	margin: 50px auto;
-	/*margin-top: 5%*/
-	padding: 2%;
+.title_block {
+	/*background-color: #748386;*/
+	margin: 50px auto 0px auto;
+	text-align: center;
+	font-size: 2em;
+	color: white;
+}
+.bio_block {
+	/*background-color: #B5D5D6;*/
+	/*border: 1px solid white;*/
+	color: white;
+	border-top: 4px solid #FFC860;
+	width: 40%;
+	margin: auto;
+	padding: 2%;	
+}
+a {
+	color: white;
+}
+#ralph-wave {
+	clip-path: circle(35% at 45% 50%);
+	display: block;
+	margin: -40px auto 5px auto;
+	width: 200px;
 }
