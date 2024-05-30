@@ -1,0 +1,63 @@
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: #748386; 
+	margin: 0px;
+}
+.title_block {
+	margin: 50px auto 0px auto;
+	text-align: center;
+	font-size: 2em;
+	color: white;
+}
+.bio_block {
+	color: white;
+	border-top: 4px solid #FFC860;
+	width: 40%;
+	margin: auto;
+	text-align: center;
+}
+.bio_block p{
+	text-align: left;
+	font-size: 22px;
+	font-weight: 300;
+	line-height: 1.6;
+}
+a {
+	color: white;
+}
+#ralph-wave {
+	clip-path: circle(35% at 45% 50%);
+	display: block;
+	margin: -40px auto 5px auto;
+	width: 300px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #454e50;
+  overflow: hidden;
+  width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #454e50;
+  border-bottom: 3px solid #ddd;
+  color: white;
+}
