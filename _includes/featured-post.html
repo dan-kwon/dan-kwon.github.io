@@ -1,3 +1,17 @@
+<style>
+  .featured-post {
+    height: 250px;          // Makes it shorter
+    width: 80%;            // Makes it narrower
+    max-width: 600px;      // Prevents it from getting too wide
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    margin: 5px auto;      // 'auto' on left/right centers the card
+  }
+  </style>
+
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
