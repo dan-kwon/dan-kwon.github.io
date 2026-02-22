@@ -1,29 +1,15 @@
 ---
-layout: page
+layout: page-about
 title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## Experience
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Currently I’m an AI/ML Engineer at Headspace AI Labs, focused on AI safety and building conversational agents.
 
-## Features
+A few highlights about myself:
+* I hold a B.S. in Industrial Engineering from Northwestern University and an M.S. in Applied Statistics from UCLA.
+* During my time at UCLA, my thesis focused on improving MRI-based Alzheimer’s disease diagnosis by generating synthetic neuroimaging data using Dall-E-2 and evaluating downstream image classification performance gains to both convolutional neural networks (CNNs) and vision transformers (ViTs). The work centered on data augmentation, distributional fidelity, and performance gains in low-sample clinical settings.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+When I’m not working, I enjoy being outdoors — running, traveling, or occasionally pretending I know how to fish. I also dabble in photography when the lighting (and my timing) cooperate. Check out my photography [here](https://www.google.com).
