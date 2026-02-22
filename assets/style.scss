@@ -363,6 +363,23 @@ nav {
 // .main
 //
 
+.intro {
+  margin-bottom: 2.5em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
+
+  h1 {
+    font-size: 1.75em;
+    margin-bottom: 0.25em;
+  }
+
+  p {
+    margin: 1.25em 0;
+    color: $gray;
+    line-height: 1.6;
+  }
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
